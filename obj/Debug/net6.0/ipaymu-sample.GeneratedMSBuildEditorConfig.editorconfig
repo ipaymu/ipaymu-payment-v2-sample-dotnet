@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ipaymu_sample
-build_property.ProjectDir = /Users/putuedipuspayasa/Project/other/ipaymu-sample/
+build_property.ProjectDir = /Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/

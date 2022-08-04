@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RgqcOyLWWQ36z/h7u7Ht3SJVTc1bwHYXbNBg/yq1hUushecMkxvUl0nqwklSCYsZzRSv8nKhjePtPwLAUyevtw==",
+  "dgSpecHash": "z2EiLFkKZ3bn/6HC1QOKErP6WzVr6Yi+dGRd4w8XLvlMoIsFSh7e1ijCP+gSMNnsdNvVPAxiwMjH0Kgcmrb1+g==",
   "success": true,
-  "projectFilePath": "/Users/putuedipuspayasa/Project/other/ipaymu-sample/ipaymu-sample.csproj",
+  "projectFilePath": "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj",
   "expectedPackageFiles": [
     "/Users/putuedipuspayasa/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.5/microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
     "/Users/putuedipuspayasa/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",

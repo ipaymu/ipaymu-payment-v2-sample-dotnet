@@ -472,11 +472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/putuedipuspayasa/Project/other/ipaymu-sample/ipaymu-sample.csproj",
+      "projectUniqueName": "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj",
       "projectName": "ipaymu-sample",
-      "projectPath": "/Users/putuedipuspayasa/Project/other/ipaymu-sample/ipaymu-sample.csproj",
+      "projectPath": "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj",
       "packagesPath": "/Users/putuedipuspayasa/.nuget/packages/",
-      "outputPath": "/Users/putuedipuspayasa/Project/other/ipaymu-sample/obj/",
+      "outputPath": "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/putuedipuspayasa/.nuget/NuGet/NuGet.Config"
