@@ -60,7 +60,7 @@ static string ComputeSha256Hash(string rawData)
     }  
 }  
 
-static string calcHmac( string data, string apiKey)
+static string calcHmac(string data, string apiKey)
 {
     byte[] key = Encoding.ASCII.GetBytes(apiKey);
     HMACSHA256 myhmacsha256 = new HMACSHA256(key);
