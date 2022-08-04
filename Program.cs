@@ -7,15 +7,6 @@ var url = "https://sandbox.ipaymu.com/api/v2/payment"; //sandbox url (for develo
 var va = "1179000899"; // your iPaymu VA
 var apiKey = "QbGcoO0Qds9sQFDmY0MWg1Tq.xtuh1"; // your iPaymu API Key
 
-var values = new Dictionary<string, string>();
-values.Add("product", "Baju");
-values.Add("qty", "1");
-values.Add("price", "50000");
-values.Add("returnUrl", "https://your-website/thank-you-page");
-values.Add("notifyUrl", "https://your-website/callback-url");
-values.Add("cancelUrl", "https://your-website/cancel-page");
-values.Add("referenceId", "1234");
-
 string[] productVal = new string[] { "T-Shirt", "Jacket", "Shoes" };
 string[] qtyVal = new string[] { "1", "1", "2" };
 string[] priceVal = new string[] { "100000", "250000", "350000" };
