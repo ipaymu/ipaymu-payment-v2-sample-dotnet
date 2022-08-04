@@ -70,11 +70,11 @@ static string ComputeSha256Hash(string rawData)
 }  
 
 static string calcHmac( string data, string apiKey)
- {
+{
     byte[] key = Encoding.ASCII.GetBytes(apiKey);
     HMACSHA256 myhmacsha256 = new HMACSHA256(key);
     byte[] byteArray = Encoding.ASCII.GetBytes(data);
     MemoryStream stream = new MemoryStream(byteArray);
     string result = myhmacsha256.ComputeHash(stream).Aggregate("", (s, e) => s + String.Format("{0:x2}",e), s => s );
     return result;
- }
+}
