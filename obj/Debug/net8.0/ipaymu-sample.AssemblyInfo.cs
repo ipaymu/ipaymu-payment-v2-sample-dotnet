@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ipaymu-sample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+440ae999699d01efda34020e67b9fa949240d851")]
 [assembly: System.Reflection.AssemblyProductAttribute("ipaymu-sample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ipaymu-sample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

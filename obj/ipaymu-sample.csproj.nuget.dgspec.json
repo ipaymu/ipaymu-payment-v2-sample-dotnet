@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj": {}
+    "/Users/ipaymudev/iPaymu/project/sample-hit/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj": {}
   },
   "projects": {
-    "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj": {
+    "/Users/ipaymudev/iPaymu/project/sample-hit/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj",
+        "projectUniqueName": "/Users/ipaymudev/iPaymu/project/sample-hit/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj",
         "projectName": "ipaymu-sample",
-        "projectPath": "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj",
-        "packagesPath": "/Users/putuedipuspayasa/.nuget/packages/",
-        "outputPath": "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/obj/",
+        "projectPath": "/Users/ipaymudev/iPaymu/project/sample-hit/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj",
+        "packagesPath": "/Users/ipaymudev/.nuget/packages/",
+        "outputPath": "/Users/ipaymudev/iPaymu/project/sample-hit/ipaymu-payment-v2-sample-dotnet/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/putuedipuspayasa/.nuget/NuGet/NuGet.Config"
+          "/Users/ipaymudev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -32,32 +32,24 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "RestClient.Net": {
-              "target": "Package",
-              "version": "[5.1.0, )"
-            },
-            "System.Text.Encoding": {
-              "target": "Package",
-              "version": "[4.3.0, )"
-            },
-            "System.Text.Encoding.Extensions": {
-              "target": "Package",
-              "version": "[4.3.0, )"
-            }
-          },
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -66,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

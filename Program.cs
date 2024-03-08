@@ -19,9 +19,9 @@ var model = new {
     returnUrl = "https://your-website/thank-you-page",
     cancelUrl = "https://your-website/cancel-page",
     referenceId = "1234", //your reference id or transaction id
-    buyerName = "Buyer Name", //optional
-    buyerEmail = "buyer@mail.com", //optional
-    buyerPhone = "08123123", //optional
+    buyerName = "Buyer Name",
+    buyerEmail = "buyer@mail.com",
+    buyerPhone = "08123123",
 };
 
 var json = JsonSerializer.Serialize(model);
@@ -33,6 +33,7 @@ String signature = calcHmac(stringToSign, apiKey);
 var data = new StringContent(json, Encoding.UTF8, "application/json");
 using var client = new HttpClient();
 
+client.DefaultRequestHeaders.Add("Accept", "application/json");
 client.DefaultRequestHeaders.Add("VA", va);
 client.DefaultRequestHeaders.Add("signature", signature);
 

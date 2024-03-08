@@ -1,19 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z2EiLFkKZ3bn/6HC1QOKErP6WzVr6Yi+dGRd4w8XLvlMoIsFSh7e1ijCP+gSMNnsdNvVPAxiwMjH0Kgcmrb1+g==",
+  "dgSpecHash": "iBvBbs0L5WQwW5r/viuv2AdKuNOCj8YN+/juX9VES/5u3Ljk4SNiTVwqL354l6E7khm1tZQdVdbUZSI8wI+oyw==",
   "success": true,
-  "projectFilePath": "/Users/putuedipuspayasa/Project/other/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj",
-  "expectedPackageFiles": [
-    "/Users/putuedipuspayasa/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.5/microsoft.extensions.logging.abstractions.3.1.5.nupkg.sha512",
-    "/Users/putuedipuspayasa/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/putuedipuspayasa/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "/Users/putuedipuspayasa/.nuget/packages/restclient.net/5.1.0/restclient.net.5.1.0.nupkg.sha512",
-    "/Users/putuedipuspayasa/.nuget/packages/restclient.net.abstractions/5.1.0/restclient.net.abstractions.5.1.0.nupkg.sha512",
-    "/Users/putuedipuspayasa/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
-    "/Users/putuedipuspayasa/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
-    "/Users/putuedipuspayasa/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
-    "/Users/putuedipuspayasa/.nuget/packages/system.text.encoding.extensions/4.3.0/system.text.encoding.extensions.4.3.0.nupkg.sha512",
-    "/Users/putuedipuspayasa/.nuget/packages/urls/1.0.0/urls.1.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/ipaymudev/iPaymu/project/sample-hit/ipaymu-payment-v2-sample-dotnet/ipaymu-sample.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
